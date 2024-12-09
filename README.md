@@ -48,4 +48,4 @@ dbt deps
 ![image](https://github.com/user-attachments/assets/c43d6baa-e9ad-4acc-a3fc-6cb82baf9e0d)
 
 --------------------------------------------------------------------------------------------------------------------
-
+## Step 03 : Create Source & Staging Tables 
